@@ -1,0 +1,18 @@
+{
+ "director":[
+  {
+    "id":1,
+    "nombre": "Martin Scorsese",
+    "peliculas":[
+	{
+	  "titulo":"Taxi Driver",
+	  "fecha":1977-03-10,
+	},
+	{
+	  "titulo":"Killers of the flower moon",
+	  "fecha":2023-10-23,
+	}
+		]
+  }
+ ]
+}
