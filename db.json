@@ -36,6 +36,18 @@
 			"titulo":"Drive",
 			"fecha":"2011-12-28",
 			"idDirector":3
+		},
+		{
+			"id":5,
+			"titulo":"Pusher",
+			"fecha":"",
+			"idDirector":3
+		},
+		{
+			"id":6,
+			"titulo":"Pusher II",
+			"fecha":"",
+			"idDirector":3
 		}
 	]
 }
