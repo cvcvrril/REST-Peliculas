@@ -2,15 +2,19 @@
 	"director": [
 		{
 			"id": 1,
-			"nombre": "Martin Scorsese"
+			"nombre": "Martin Scorsese",
+			"nacimiento" : "1942-11-17"
+
 		},
 		{
 			"id":2,
-			"nombre":"David Lynch"
+			"nombre":"David Lynch",
+			"nacimiento" : "1946-01-20"
 		},
 		{
 			"id":3,
-			"nombre":"Nicolas Winding Refn"
+			"nombre":"Nicolas Winding Refn",
+			"nacimiento" : "1970-09-29"
 		}
 	],"peliculas": [
 		{
