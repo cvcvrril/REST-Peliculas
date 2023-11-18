@@ -3,18 +3,24 @@
 		{
 			"id": 1,
 			"nombre": "Martin Scorsese",
-			"nacimiento" : "1942-11-17"
+			"nacimiento": "1942-11-17"
 
 		},
 		{
 			"id":2,
-			"nombre":"David Lynch",
-			"nacimiento" : "1946-01-20"
+			"nombre": "David Lynch",
+			"nacimiento": "1946-01-20"
 		},
 		{
 			"id":3,
-			"nombre":"Nicolas Winding Refn",
-			"nacimiento" : "1970-09-29"
+			"nombre": "Nicolas Winding Refn",
+			"nacimiento": "1970-09-29"
+		},
+		{
+			"id":4,
+			"nombre": "Pedro Almodovar",
+			"nacimiento": "1949-09-25"
+
 		}
 	],"peliculas": [
 		{
@@ -52,6 +58,18 @@
 			"titulo":"Pusher II",
 			"fecha":"",
 			"idDirector":3
+		},
+		{
+			"id":7,
+			"titulo":"Valhalla Rising",
+			"fecha":"",
+			"idDirector":3
+		},
+		{
+			"id":8,
+			"titulo":"Todo Sobre Mi Madre",
+			"fecha":"",
+			"idDirector":4
 		}
 	]
 }
