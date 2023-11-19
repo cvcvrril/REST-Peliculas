@@ -4,72 +4,93 @@
 			"id": 1,
 			"nombre": "Martin Scorsese",
 			"nacimiento": "1942-11-17"
-
 		},
 		{
-			"id":2,
+			"id": 2,
 			"nombre": "David Lynch",
 			"nacimiento": "1946-01-20"
 		},
 		{
-			"id":3,
+			"id": 3,
 			"nombre": "Nicolas Winding Refn",
 			"nacimiento": "1970-09-29"
 		},
 		{
-			"id":4,
+			"id": 4,
 			"nombre": "Pedro Almodovar",
 			"nacimiento": "1949-09-25"
-
-		}
-	],"peliculas": [
+		},
 		{
-			"id":1,
+			"id": 5,
+			"nombre": "Stanley Kubrick",
+			"nacimiento": "1928-07-26"
+		},
+		{
+			"id": 6,
+			"nombre": "Guillermo Del Toro",
+			"nacimiento": "1964-10-09"
+		}
+	],
+	"peliculas": [
+		{
+			"id": 1,
 			"titulo": "Taxi Driver",
 			"fecha": "1977-03-10",
-			"idDirector":1
+			"idDirector": 1
 		},
 		{
-			"id":2,
+			"id": 2,
 			"titulo": "Killers of the flower moon",
 			"fecha": "2023-10-23",
-			"idDirector":1
+			"idDirector": 1
 		},
 		{
-			"id":3,
-			"titulo":"The Elephant Man",
-			"fecha":"1981-02-31",
-			"idDirector":2
+			"id": 3,
+			"titulo": "The Elephant Man",
+			"fecha": "1981-02-31",
+			"idDirector": 2
 		},
 		{
-			"id":4,
-			"titulo":"Drive",
-			"fecha":"2011-12-28",
-			"idDirector":3
+			"id": 4,
+			"titulo": "Drive",
+			"fecha": "2011-12-28",
+			"idDirector": 3
 		},
 		{
-			"id":5,
-			"titulo":"Pusher",
-			"fecha":"",
-			"idDirector":3
+			"id": 5,
+			"titulo": "Pusher",
+			"fecha": "",
+			"idDirector": 3
 		},
 		{
-			"id":6,
-			"titulo":"Pusher II",
-			"fecha":"",
-			"idDirector":3
+			"id": 6,
+			"titulo": "Pusher II",
+			"fecha": "",
+			"idDirector": 3
 		},
 		{
-			"id":7,
-			"titulo":"Valhalla Rising",
-			"fecha":"",
-			"idDirector":3
+			"id": 7,
+			"titulo": "Valhalla Rising",
+			"fecha": "",
+			"idDirector": 3
 		},
 		{
-			"id":8,
-			"titulo":"Todo Sobre Mi Madre",
-			"fecha":"",
-			"idDirector":4
+			"id": 8,
+			"titulo": "Todo Sobre Mi Madre",
+			"fecha": "",
+			"idDirector": 4
+		},
+		{
+			"id": 9,
+			"titulo": "The Orange Clockwork",
+			"fecha": "",
+			"idDirector": 5
+		},
+		{
+			"id": 10,
+			"titulo": "La Cumbre Escarlata",
+			"fecha": "",
+			"idDirector": 6
 		}
 	]
 }
