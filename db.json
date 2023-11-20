@@ -47,7 +47,7 @@
 		{
 			"id": 3,
 			"titulo": "The Elephant Man",
-			"fecha": "1981-02-31",
+			"fecha": "1981-03-31",
 			"idDirector": 2
 		},
 		{
@@ -59,37 +59,37 @@
 		{
 			"id": 5,
 			"titulo": "Pusher",
-			"fecha": "",
+			"fecha": "2011-12-28",
 			"idDirector": 3
 		},
 		{
 			"id": 6,
 			"titulo": "Pusher II",
-			"fecha": "",
+			"fecha": "2011-12-28",
 			"idDirector": 3
 		},
 		{
 			"id": 7,
 			"titulo": "Valhalla Rising",
-			"fecha": "",
+			"fecha": "2011-12-28",
 			"idDirector": 3
 		},
 		{
 			"id": 8,
 			"titulo": "Todo Sobre Mi Madre",
-			"fecha": "",
+			"fecha": "2011-12-28",
 			"idDirector": 4
 		},
 		{
 			"id": 9,
 			"titulo": "The Orange Clockwork",
-			"fecha": "",
+			"fecha": "2011-12-28",
 			"idDirector": 5
 		},
 		{
 			"id": 10,
 			"titulo": "La Cumbre Escarlata",
-			"fecha": "",
+			"fecha": "2011-12-28",
 			"idDirector": 6
 		}
 	]
